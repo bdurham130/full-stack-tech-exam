@@ -9,7 +9,7 @@
 | **GitHub Repository** | [https://github.com/bdurham130/full-stack-tech-exam]https://github.com/bdurham130/full-stack-tech-exam) | 
 | **GitHub Pages (docs/)** | [https://github.com/bdurham130/full-stack-tech-exam/tree/main/docs](https://github.com/bdurham130/full-stack-tech-exam/tree/main/docs) | 
 | **Dev Server (Render)** | [https://full-stack-tech-exam-85la.onrender.com/](https://full-stack-tech-exam-85la.onrender.com/) | 
-| **Production Server (GCP)** | [http://http://34.67.6.40/](http://http://34.67.6.40/) | 
+| **Production Server (GCP)** | [http://34.67.6.40/](http://34.67.6.40/) | 
 | **Issue** | [https://github.com/bdurham130/full-stack-tech-exam/issues/1](https://github.com/bdurham130/full-stack-tech-exam/issues/1) | 
 | **Pull Request** | [https://github.com/bdurham130/full-stack-tech-exam/pull/2](https://github.com/bdurham130/full-stack-tech-exam/pull/2) | 
 | **Milestone** | [https://github.com/bdurham130/full-stack-tech-exam/milestone/1](https://github.com/bdurham130/full-stack-tech-exam/milestone/1) | 
