@@ -13,8 +13,8 @@
 | **Issue** | [https://github.com/bdurham130/full-stack-tech-exam/issues/1](https://github.com/bdurham130/full-stack-tech-exam/issues/1) | 
 | **Pull Request** | [https://github.com/bdurham130/full-stack-tech-exam/pull/2](https://github.com/bdurham130/full-stack-tech-exam/pull/2) | 
 | **Milestone** | [https://github.com/bdurham130/full-stack-tech-exam/milestone/1](https://github.com/bdurham130/full-stack-tech-exam/milestone/1) | 
-| **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
-| **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
+| **Successful CI/CD Action** | [https://github.com/bdurham130/full-stack-tech-exam/actions/runs/23018382798](https://github.com/bdurham130/full-stack-tech-exam/actions/runs/23018382798) | 
+| **ssh cmd to your gcp** | `ssh -i student-key bcumbie@34.67.6.40` | 
 
 ---
 
